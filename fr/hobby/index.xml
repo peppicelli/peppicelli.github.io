@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hobbies on My New Hugo Site</title>
+    <link>https://peppicelli.github.io/fr/hobby/</link>
+    <description>Recent content in Hobbies on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Mar 2017 00:48:25 -0500</lastBuildDate>
+    
+	<atom:link href="https://peppicelli.github.io/fr/hobby/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Le hacking (dans le sens bricolage)</title>
+      <link>https://peppicelli.github.io/fr/hobby/hacking/</link>
+      <pubDate>Thu, 30 Mar 2017 00:48:25 -0500</pubDate>
+      
+      <guid>https://peppicelli.github.io/fr/hobby/hacking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L&#39;escalade</title>
+      <link>https://peppicelli.github.io/fr/hobby/climbing/</link>
+      <pubDate>Thu, 30 Mar 2017 00:48:19 -0500</pubDate>
+      
+      <guid>https://peppicelli.github.io/fr/hobby/climbing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>La réalisation de vidéos</title>
+      <link>https://peppicelli.github.io/fr/hobby/video/</link>
+      <pubDate>Thu, 30 Mar 2017 00:48:13 -0500</pubDate>
+      
+      <guid>https://peppicelli.github.io/fr/hobby/video/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

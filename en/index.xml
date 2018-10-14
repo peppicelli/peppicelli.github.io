@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://peppicelli.github.io/en/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Mar 2017 00:48:25 -0500</lastBuildDate>
+    
+	<atom:link href="https://peppicelli.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hacking around</title>
+      <link>https://peppicelli.github.io/en/hobby/hacking/</link>
+      <pubDate>Thu, 30 Mar 2017 00:48:25 -0500</pubDate>
+      
+      <guid>https://peppicelli.github.io/en/hobby/hacking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rock Climbing</title>
+      <link>https://peppicelli.github.io/en/hobby/climbing/</link>
+      <pubDate>Thu, 30 Mar 2017 00:48:19 -0500</pubDate>
+      
+      <guid>https://peppicelli.github.io/en/hobby/climbing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video making</title>
+      <link>https://peppicelli.github.io/en/hobby/video/</link>
+      <pubDate>Thu, 30 Mar 2017 00:48:13 -0500</pubDate>
+      
+      <guid>https://peppicelli.github.io/en/hobby/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intern</title>
+      <link>https://peppicelli.github.io/en/experience/roche/</link>
+      <pubDate>Wed, 29 Mar 2017 23:56:27 -0500</pubDate>
+      
+      <guid>https://peppicelli.github.io/en/experience/roche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other skills</title>
+      <link>https://peppicelli.github.io/en/competence/others/</link>
+      <pubDate>Sun, 26 Mar 2017 19:20:10 -0500</pubDate>
+      
+      <guid>https://peppicelli.github.io/en/competence/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software engineering</title>
+      <link>https://peppicelli.github.io/en/competence/engineering/</link>
+      <pubDate>Sun, 26 Mar 2017 18:40:53 -0500</pubDate>
+      
+      <guid>https://peppicelli.github.io/en/competence/engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methodology</title>
+      <link>https://peppicelli.github.io/en/competence/methodologies/</link>
+      <pubDate>Sun, 26 Mar 2017 18:35:47 -0500</pubDate>
+      
+      <guid>https://peppicelli.github.io/en/competence/methodologies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frameworks &amp; OS</title>
+      <link>https://peppicelli.github.io/en/competence/tools/</link>
+      <pubDate>Sun, 26 Mar 2017 16:17:09 -0500</pubDate>
+      
+      <guid>https://peppicelli.github.io/en/competence/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://peppicelli.github.io/en/competence/programming/</link>
+      <pubDate>Sun, 26 Mar 2017 16:17:07 -0500</pubDate>
+      
+      <guid>https://peppicelli.github.io/en/competence/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External consultant (software engineer) for SERIAL SA</title>
+      <link>https://peppicelli.github.io/en/experience/serial/</link>
+      <pubDate>Fri, 24 Mar 2017 19:28:09 -0500</pubDate>
+      
+      <guid>https://peppicelli.github.io/en/experience/serial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External consultant (software engineer) for SERIAL SA</title>
+      <link>https://peppicelli.github.io/en/experience/odyssey/</link>
+      <pubDate>Fri, 24 Mar 2017 16:14:39 -0500</pubDate>
+      
+      <guid>https://peppicelli.github.io/en/experience/odyssey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globetrotter for one year</title>
+      <link>https://peppicelli.github.io/en/experience/365daysoff/</link>
+      <pubDate>Fri, 24 Mar 2017 08:55:55 -0500</pubDate>
+      
+      <guid>https://peppicelli.github.io/en/experience/365daysoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Senior software engineer</title>
+      <link>https://peppicelli.github.io/en/experience/atracsys/</link>
+      <pubDate>Wed, 22 Mar 2017 16:42:56 -0500</pubDate>
+      
+      <guid>https://peppicelli.github.io/en/experience/atracsys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software architect / Tech lead</title>
+      <link>https://peppicelli.github.io/en/experience/hbp/</link>
+      <pubDate>Wed, 22 Mar 2017 16:42:56 -0500</pubDate>
+      
+      <guid>https://peppicelli.github.io/en/experience/hbp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full stack software engineer</title>
+      <link>https://peppicelli.github.io/en/experience/kollmorgen/</link>
+      <pubDate>Wed, 22 Mar 2017 14:56:08 -0500</pubDate>
+      
+      <guid>https://peppicelli.github.io/en/experience/kollmorgen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

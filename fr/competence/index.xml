@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Competences on My New Hugo Site</title>
+    <link>https://peppicelli.github.io/fr/competence/</link>
+    <description>Recent content in Competences on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Mar 2017 19:20:10 -0500</lastBuildDate>
+    
+	<atom:link href="https://peppicelli.github.io/fr/competence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Autres compétences</title>
+      <link>https://peppicelli.github.io/fr/competence/others/</link>
+      <pubDate>Sun, 26 Mar 2017 19:20:10 -0500</pubDate>
+      
+      <guid>https://peppicelli.github.io/fr/competence/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Génie logiciel</title>
+      <link>https://peppicelli.github.io/fr/competence/engineering/</link>
+      <pubDate>Sun, 26 Mar 2017 18:40:53 -0500</pubDate>
+      
+      <guid>https://peppicelli.github.io/fr/competence/engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Méthodes de réalisation de projets</title>
+      <link>https://peppicelli.github.io/fr/competence/methodologies/</link>
+      <pubDate>Sun, 26 Mar 2017 18:35:47 -0500</pubDate>
+      
+      <guid>https://peppicelli.github.io/fr/competence/methodologies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frameworks &amp; systèmes d&#39;exploitation</title>
+      <link>https://peppicelli.github.io/fr/competence/tools/</link>
+      <pubDate>Sun, 26 Mar 2017 16:17:09 -0500</pubDate>
+      
+      <guid>https://peppicelli.github.io/fr/competence/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programmation</title>
+      <link>https://peppicelli.github.io/fr/competence/programming/</link>
+      <pubDate>Sun, 26 Mar 2017 16:17:07 -0500</pubDate>
+      
+      <guid>https://peppicelli.github.io/fr/competence/programming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
